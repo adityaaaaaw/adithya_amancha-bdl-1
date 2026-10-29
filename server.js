@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
 app.get('/about', (req, res) => {
     res.status(200).json({
         name: 'Aditya',
-        section: 'Your Section'
+        section: 'AI & DE-2A'
     });
 });
 
