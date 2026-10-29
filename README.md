@@ -46,7 +46,8 @@ Install Node.js and npm on your computer.
 
 ### 1. Clone the repository
 
-git clone [https://github.com/adityaaaaaw/aditya-amancha.git](https://github.com/adityaaaaaw/aditya-amancha.git) cd bdf-lab1
+git clone https://github.com/adityaaaaaw/aditya-amancha-bdl-1.git
+cd aditya-amancha-bdl-1
 
 ### 2. Install dependencies
 
@@ -77,7 +78,7 @@ Welcome to the BDF Lab Server
 
 **GET /about**
 
-{   "name": "Aditya",   "section": "Your Section" }
+{   "name": "Aditya",   "section": "AI & DE- 2A" }
 
 **GET /time**
 
